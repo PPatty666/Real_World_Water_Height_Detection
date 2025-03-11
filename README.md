@@ -1,6 +1,7 @@
+## Tide Monitoring, Water Level Detection, and Early Flood Warnings
 
-![title_gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ1dmY0emxiOWJjOHlqYTF1eHlpcnc4MHFnbTVwOWdmcjNzejBxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j0XLBOvEXTgnpikkbJ/giphy.gif)
+We installed poles at various flood-prone locations to measure tide height and standing water levels. Cameras were set up to continuously monitor these areas. Using computer vision techniques, we analyze the footage to detect water height changes and provide early flood warnings.
 
-We installed poles at different flood-prone locations to measure tide height / standing water on the ground.
-We also had cameras monitoring changes day and night.
-We are employing computer vision techniques to detect water height and give early flood warnings.
+This is a project in progress. 
+We want to share some results from our experiments + difficulties we encountered. :nerd_face:
+
