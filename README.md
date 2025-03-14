@@ -20,3 +20,9 @@ We want to share some results from our experiments + difficulties we encountered
 ### :test_tube:What is the next?
 * Improving current approaches by finding the most generalizable image preprocessing techniques
 * Experimenting with Object Detection
+
+# Contributors
+Patty(Mengjue) Zhu (mzhu356@gatech.edu), Animesh Agrawal (anagrawal@gatech.edu)
+Subhrajit Guhathakurta (subhro.guha@design.gatech.edu)
+Barnali Dixon (bdixon@usf.edu)
+
