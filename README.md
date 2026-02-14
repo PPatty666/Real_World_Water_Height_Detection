@@ -33,7 +33,8 @@ Unexpectedly, we observed performance degradation under **binary nighttime image
 
 Systematic diagnosis identified two primary causes:
 
-- **Camera geometry distortions** 
+- **Camera–pole distance**: the physical distance between the camera and the water-level measurement pole.
+
 - **Background interference** (reflections of background objects)
 
 ---
