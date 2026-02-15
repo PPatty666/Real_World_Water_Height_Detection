@@ -6,7 +6,7 @@
 
 We applied object detection models to estimate flood depth from water-level poles across diverse environmental conditions.
 
-- Models trained under **dry and tranquil conditions** transferred well to similar stable sites.
+- Models trained under **dry conditions** transferred well to tranquil  sites.
 - Transferability degraded under **extreme hurricane conditions**, particularly at coastal locations where images became heavily blurred due to intense precipitation, tides, and wind. In some cases, the water-level pole was barely distinguishable, even to the human eye.
 
 
